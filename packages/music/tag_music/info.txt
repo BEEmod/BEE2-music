@@ -9,7 +9,7 @@
 	}
 
 // Extra tracks:
-// Slow 2 (Harry song)
+// Slow 2 (Dereliction, reused from the Tier 3 Soundtrack)
 // Mild 1? 2? 3?
 
 // Music -> map locations dump:
@@ -146,13 +146,13 @@
 "Music"
 	{
 	"ID"          "TAG_SLOW_2"
-	"Name"        "Slow 2"
+	"Name"        "Dereliction"
 	"Group"       "Aperture Tag"
 	"Game"        "aptag"
 	"Icon"        "music/ap_tag/slow_2.png"
 	"IconLarge"   "music_lrg/ap_tag/slow_2.png"
 	"Authors"     "Harry Callaghan"
-	"Description" "A song played in the very first Aperture Tag maps, introducing the map."
+	"Description" "A song played during the paint gun introductory courses. This song was reused from the Tier 3 soundtrack and is not included Aperture Tag OST. The game files list it as slow 2."
 	"SoundScript" "music/tag_slow_02.wav"
 	"Sample"      "ap_tag/tag_slow_02.ogg"
 	"Children"
