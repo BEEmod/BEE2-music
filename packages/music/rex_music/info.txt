@@ -12,6 +12,29 @@
 // ball_mod_music.three         rex_05, rex_16
 // ball_mod_music.two           rex_09, rex_14
 
+
+"Overrides"
+	{
+	// Set the P1 style to use these music tracks.
+	"Style"
+		{
+		"ID"		"BEE2_PORTAL_1"
+		"Authors"	"Valve"
+		"Name"		"Portal 1 Style"
+		"Suggested"
+			{
+			"Music" "REX_ONE"
+			"Music" "REX_TWO"
+			"Music" "REX_THREE"
+			"Music" "REX_FOUR"
+			"Music" "REX_FIVE"
+			"Music" "REX_SIX"
+			"Music" "REX_SEVEN"
+			}
+		}
+	}
+
+
 "Music"
 	{
 	"ID"            "REX_ONE"
