@@ -89,7 +89,7 @@
 	"Icon"        "music/mel/waking_up_to_science.png"
 	"IconLarge"   "music/mel_lrg/waking_up_to_science.png"
 	"Authors"     "Harry Callaghan"
-	"Description" "The music for the scenes after waking up from cryosleep."
+	"Description" "The music for the scenes after waking up from stasis."
 	// 01 is not looped...
 	"Sample"      "mel/sp_a2_garden_destroyed_02.ogg"
 	"SoundScript" "music/mel/sp_a2_garden_destroyed_02.wav"
@@ -136,13 +136,13 @@
 "Music"
 	{
 	"ID"          "MEL_OUT_OF_ORDER_1"
-	"Name"        "Out Of Order Part 1"
+	"Name"        "Out Of Order - Part 1"
 	"ShortName"   "Out Of Order #1"
 	"Group"       "Portal Stories: Mel"
 	"Icon"        "music/mel/out_of_order_chamber.png"
 	"IconLarge"   "music/mel_lrg/out_of_order_chamber.png"
 	"Authors"     "Harry Callaghan"
-	"Description" "Music played in the 3rd test chamber, featuring a broken Repulsion Gel dispenser. This is a slower paced version of the music."
+	"Description" "Music played in the 3rd test chamber, featuring a broken Repulsion Gel dispenser. This is a slower paced version of the track."
 	"Sample"      "mel/sp_a2_past_power_01.ogg"
 	"SoundScript" "music/mel/sp_a2_past_power_01.wav"
 	"Children"
@@ -154,13 +154,13 @@
 "Music"
 	{
 	"ID"          "MEL_OUT_OF_ORDER_2"
-	"Name"        "Out Of Order Part 2"
+	"Name"        "Out Of Order - Part 2"
 	"ShortName"   "Out Of Order #2"
 	"Group"       "Portal Stories: Mel"
 	"Icon"        "music/mel/out_of_order_turret.png"
 	"IconLarge"   "music/mel_lrg/out_of_order_turret.png"
 	"Authors"     "Harry Callaghan"
-	"Description" "Music played in the area where you must fling past several turrets in a small corridor."
+	"Description" "Music played in the BTS area where you must fling past several turrets in a small corridor."
 	"Sample"      "mel/sp_a2_past_power_02.ogg"
 	"SoundScript" "music/mel/sp_a2_past_power_02.wav"
 	"Children"
@@ -177,7 +177,7 @@
 	"Icon"        "music/mel/acceleration.png"
 	"IconLarge"   "music/mel_lrg/acceleration.png"
 	"Authors"     "Harry Callaghan"
-	"Description" "Music played in the last Propulsion Gel chamber, where AEGIS first appears."
+	"Description" "Music played in the last Old Aperture test chamber, where AEGIS first appears."
 	"Sample"      "mel/sp_a2_dont_meet_virgil.ogg"
 	"SoundScript" "music/mel/sp_a2_dont_meet_virgil.wav"
 	"Children"
@@ -402,7 +402,7 @@
 
 "Music"
 	{
-	"ID"          "MEL_SKOTOTROPHISM"
+	"ID"          "MEL_SKOTOTROPHISM"  // Typo, need migration of these.
 	"Name"        "Skototropism"
 	"Group"       "Portal Stories: Mel"
 	"Icon"        "music/mel/skototropism.png"
@@ -431,7 +431,7 @@
 	"Icon"        "music/mel/halted_production.png"
 	"IconLarge"   "music/mel_lrg/halted_production.png"
 	"Authors"     "Harry Callaghan"
-	"Description" "Music played for the finale room involving the cube and button quality testing."
+	"Description" "Music played during the weighted cube manufacturing BTS section."
 	"Sample"      "mel/sp_a4_factory.ogg"
 	"SoundScript" "music/mel/sp_a4_factory.wav"
 	"Children"
@@ -443,26 +443,107 @@
 "Music"
 	{
 	"ID"          "MEL_LIVE_FIRE_EXERCISE"
-	"Name"        "Live Fire Exercise"
-	"ShortName"   "Live Fire"
+	"Name"        "Live Fire Exercise - Part 1"
+	"ShortName"   "Live Fire #1"
 	"Group"       "Portal Stories: Mel"
 	"Icon"        "music/mel/live_fire_exercise.png"
 	"IconLarge"   "music/mel_lrg/live_fire_exercise.png"
 	"Authors"     "Harry Callaghan"
-	"Description" "Music played during the maps in the rooms around AEGIS's room. This has 3 random tracks."
+	"Description" "The first track played in the areas leading up to AEGIS's room."
 	"Sample"
 		{
 		"Base" "mel/sp_a5_finale01_01.ogg"
-		"tBeam" "mel/sp_a5_finale01_funnel.ogg"
 		}
 	"SoundScript"
 		{
 		"Base" 
 			{
 			"" "music/mel/sp_a5_finale01_01.wav"
+			}
+		}
+	"Children"
+		{
+		"tBeam" "MEL_LIVE_FIRE_EXERCISE_FUNNEL"
+
+		"sync_funnel" "1"
+		}
+	}
+
+"Music"
+	{
+	"ID"          "MEL_LIVE_FIRE_EXERCISE_2"
+	"Name"        "Live Fire Exercise - Part 2"
+	"ShortName"   "Live Fire #2"
+	"Group"       "Portal Stories: Mel"
+	"Icon"        "music/mel/live_fire_exercise_2.png"
+	"IconLarge"   "music/mel_lrg/live_fire_exercise_2.png"
+	"Authors"     "Harry Callaghan"
+	"Description" "The second track played in the areas leading up to AEGIS's room."
+	"Sample"
+		{
+		"Base" "mel/sp_a5_finale01_02.ogg"
+		}
+	"SoundScript"
+		{
+		"Base" 
+			{
 			"" "music/mel/sp_a5_finale01_02.wav"
+
+			}
+		}
+	"Children"
+		{
+		"tBeam" "MEL_LIVE_FIRE_EXERCISE_FUNNEL"
+
+		"sync_funnel" "1"
+		}
+	}
+
+"Music"
+	{
+	"ID"          "MEL_LIVE_FIRE_EXERCISE_3"
+	"Name"        "Live Fire Exercise - Part 3"
+	"ShortName"   "Live Fire #3"
+	"Group"       "Portal Stories: Mel"
+	"Icon"        "music/mel/live_fire_exercise_3.png"
+	"IconLarge"   "music/mel_lrg/live_fire_exercise_3.png"
+	"Authors"     "Harry Callaghan"
+	"Description" "The third track played in the areas leading up to AEGIS's room."
+	"Sample"
+		{
+		"Base" "mel/sp_a5_finale01_03.ogg"
+		}
+	"SoundScript"
+		{
+		"Base" 
+			{
 			"" "music/mel/sp_a5_finale01_03.wav"
 			}
+		}
+	"Children"
+		{
+		"tBeam" "MEL_LIVE_FIRE_EXERCISE_FUNNEL"
+
+		"sync_funnel" "1"
+		}
+	}
+
+"Music"
+	{
+	"ID"            "MEL_LIVE_FIRE_EXERCISE_FUNNEL"
+	"Name"          "Live Fire Exercise"
+	"ShortName"     "Live Fire"
+	"Group"       	"Portal Stories: Mel"
+	"Icon"        	"music/mel/live_fire_exercise.png"
+	"IconLarge"   	"music/mel_lrg/live_fire_exercise.png"
+	"Authors"       "Harry Callaghan"
+	"Description"
+		{
+		"" "The funnel music paired with Live Fire Exercise."
+		}
+	"Sample"        "mel/sp_a5_finale01_funnel.ogg"
+	"SoundScript"
+		{
 		"tBeam" "music/mel/sp_a5_finale01_funnel.wav"
 
 		"sync_funnel" "1"
