@@ -2,6 +2,29 @@
 "Name" "Portal Pro Music"
 "Desc" "Music from the Portal Pro Portal 1 mod."
 
+"Overrides"
+	{
+	// Set the P1 style to use these music tracks.
+	"Style"
+		{
+		"ID"		"BEE2_PORTAL_1"
+		"Authors"	"Valve"
+		"Name"		"Portal 1 Style"
+		"Suggested"
+			{
+			"Music" "PRO_BEEPS"
+			"Music" "PRO_DARKNESS"
+			"Music" "PRO_EVIL"
+			"Music" "PRO_EXHAUST"
+			"Music" "PRO_FORBIDDEN"
+			"Music" "PRO_GLASS"
+			"Music" "PRO_PLACID"
+			"Music" "PRO_SCIENCE"
+			"Music" "PRO_SIN"
+			}
+		}
+	}
+
 "Music"
 	{
 	"ID"            "PRO_BEEPS"
