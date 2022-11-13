@@ -1,0 +1,114 @@
+# Translations template for BEEmod package "Rexaura Music".
+# Built with BEEmod version 2.4.42.0.dev+0b6edc8e 64-bit.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Rexaura Music 2.4.42.0.dev+0b6edc8e 64-bit\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-11-02 19:03+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: music/REX_FIVE.short_name
+msgid "Five"
+msgstr ""
+
+#: music/REX_FOUR.short_name
+msgid "Four"
+msgstr ""
+
+#: package/desc
+msgid "Music from the Rexaura Portal 1 mod."
+msgstr ""
+
+#: music/REX_ONE.short_name
+msgid "One"
+msgstr ""
+
+#: music/REX_FIVE.group music/REX_FOUR.group music/REX_ONE.group music/REX_SEVEN.group music/REX_SIX.group
+#: music/REX_THREE.group music/REX_TWO.group
+msgid "Rexaura"
+msgstr ""
+
+#: music/REX_FIVE.long_name
+msgid "Rexaura - Five"
+msgstr ""
+
+#: music/REX_FOUR.long_name
+msgid "Rexaura - Four"
+msgstr ""
+
+#: music/REX_ONE.long_name
+msgid "Rexaura - One"
+msgstr ""
+
+#: music/REX_SEVEN.long_name
+msgid "Rexaura - Seven"
+msgstr ""
+
+#: music/REX_SIX.long_name
+msgid "Rexaura - Six"
+msgstr ""
+
+#: music/REX_THREE.long_name
+msgid "Rexaura - Three"
+msgstr ""
+
+#: music/REX_TWO.long_name
+msgid "Rexaura - Two"
+msgstr ""
+
+#: package/name
+msgid "Rexaura Music"
+msgstr ""
+
+#: music/REX_SEVEN.short_name
+msgid "Seven"
+msgstr ""
+
+#: music/REX_SIX.short_name
+msgid "Six"
+msgstr ""
+
+#: music/REX_FIVE.desc
+msgid "The fifth audio track for the Rexaura mod, featured in Test Chambers 04 and 13."
+msgstr ""
+
+#: music/REX_SEVEN.desc
+msgid "The finale audio track for the Rexaura mod, featured after Test Chamber 19."
+msgstr ""
+
+#: music/REX_FOUR.desc
+msgid "The fourth audio track for the Rexaura mod, featured in Test Chambers 07, 11 and 17."
+msgstr ""
+
+#: music/REX_ONE.desc
+msgid "The introductory audio track for the Rexaura mod, featured in Test Chambers 00, 08, 18 and 19."
+msgstr ""
+
+#: music/REX_TWO.desc
+msgid "The second audio track for the Rexaura mod, featured in Test Chambers 09 and 14."
+msgstr ""
+
+#: music/REX_SIX.desc
+msgid "The sixth audio track for the Rexaura mod, featured in Test Chambers 10 and 15."
+msgstr ""
+
+#: music/REX_THREE.desc
+msgid "The third audio track for the Rexaura mod, featured in Test Chambers 05 and 16."
+msgstr ""
+
+#: music/REX_THREE.short_name
+msgid "Three"
+msgstr ""
+
+#: music/REX_TWO.short_name
+msgid "Two"
+msgstr ""
+

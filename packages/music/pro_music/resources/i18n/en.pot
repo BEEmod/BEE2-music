@@ -1,0 +1,71 @@
+# Translations template for BEEmod package "Portal Pro Music".
+# Built with BEEmod version 2.4.42.0.dev+0b6edc8e 64-bit.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Portal Pro Music 2.4.42.0.dev+0b6edc8e 64-bit\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-11-02 19:03+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: music/PRO_BEEPS.desc music/PRO_DARKNESS.desc music/PRO_EVIL.desc music/PRO_EXHAUST.desc music/PRO_FORBIDDEN.desc
+#: music/PRO_GLASS.desc music/PRO_PLACID.desc music/PRO_SCIENCE.desc music/PRO_SIN.desc
+msgid "A track used in the Portal Pro mod."
+msgstr ""
+
+#: music/PRO_BEEPS.long_name music/PRO_BEEPS.short_name
+msgid "Beeps"
+msgstr ""
+
+#: music/PRO_DARKNESS.long_name music/PRO_DARKNESS.short_name
+msgid "Darkness"
+msgstr ""
+
+#: music/PRO_EVIL.long_name music/PRO_EVIL.short_name
+msgid "Evil"
+msgstr ""
+
+#: music/PRO_EXHAUST.long_name music/PRO_EXHAUST.short_name
+msgid "Exhaust"
+msgstr ""
+
+#: music/PRO_FORBIDDEN.long_name music/PRO_FORBIDDEN.short_name
+msgid "Forbidden"
+msgstr ""
+
+#: music/PRO_GLASS.long_name music/PRO_GLASS.short_name
+msgid "Glass"
+msgstr ""
+
+#: package/desc
+msgid "Music from the Portal Pro Portal 1 mod."
+msgstr ""
+
+#: music/PRO_PLACID.long_name music/PRO_PLACID.short_name
+msgid "Placid"
+msgstr ""
+
+#: music/PRO_BEEPS.group music/PRO_DARKNESS.group music/PRO_EVIL.group music/PRO_EXHAUST.group music/PRO_FORBIDDEN.group
+#: music/PRO_GLASS.group music/PRO_PLACID.group music/PRO_SCIENCE.group music/PRO_SIN.group
+msgid "Portal Pro"
+msgstr ""
+
+#: package/name
+msgid "Portal Pro Music"
+msgstr ""
+
+#: music/PRO_SCIENCE.long_name music/PRO_SCIENCE.short_name
+msgid "Science"
+msgstr ""
+
+#: music/PRO_SIN.long_name music/PRO_SIN.short_name
+msgid "Sin"
+msgstr ""
+

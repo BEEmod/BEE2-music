@@ -1,0 +1,160 @@
+# Translations template for BEEmod package "Portal 1 Music".
+# Built with BEEmod version 2.4.42.0.dev+0b6edc8e 64-bit.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Portal 1 Music 2.4.42.0.dev+0b6edc8e 64-bit\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-11-02 19:03+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: music/VALVE_P1_DEGREES_KELVIN.long_name
+msgid "4000 Degrees Kelvin"
+msgstr ""
+
+#: music/VALVE_P1_DEGREES_KELVIN.short_name
+msgid "4000 Kelvin"
+msgstr ""
+
+#: music/VALVE_P1_ANDROID_HELL.desc
+msgid "A track played in several 'Hard' puzzles - Test Chamber 13, and Test Chamber 18."
+msgstr ""
+
+#: music/VALVE_P1_SELF_ESTEEM_FUND.desc
+msgid "A track played in the fling-introduction chamber (Test Chamber 10), and Test Chamber 14."
+msgstr ""
+
+#: music/VALVE_P1_ANDROID_HELL.long_name music/VALVE_P1_ANDROID_HELL.short_name
+msgid "Android Hell"
+msgstr ""
+
+#: music/VALVE_P1_BLOOD.short_name
+msgid "Blood"
+msgstr ""
+
+#: music/VALVE_P1_YOU_CANT_ESCAPE.short_name
+msgid "Can't Escape"
+msgstr ""
+
+#: music/VALVE_P1_PROCEDURAL_JIGGLE_BONE.short_name
+msgid "Jiggle Bone"
+msgstr ""
+
+#: music/VALVE_P1_NO_CAKE_FOR_YOU.short_name
+msgid "No Cake"
+msgstr ""
+
+#: music/VALVE_P1_NO_CAKE_FOR_YOU.long_name
+msgid "No Cake For You"
+msgstr ""
+
+#: music/VALVE_P1_NOT_A_GOOD_PERSON.short_name
+msgid "Not-Good Person"
+msgstr ""
+
+#: music/VALVE_P1_PARTY_ESCORT.short_name
+msgid "Party Escort"
+msgstr ""
+
+#: music/VALVE_P1_PARTY_ESCORT.long_name
+msgid "Party Escort Bot"
+msgstr ""
+
+#: music/VALVE_P1_ANDROID_HELL.group music/VALVE_P1_BLOOD.group music/VALVE_P1_DEGREES_KELVIN.group
+#: music/VALVE_P1_NOT_A_GOOD_PERSON.group music/VALVE_P1_NO_CAKE_FOR_YOU.group music/VALVE_P1_PARTY_ESCORT.group
+#: music/VALVE_P1_PROCEDURAL_JIGGLE_BONE.group music/VALVE_P1_SELF_ESTEEM_FUND.group music/VALVE_P1_STOP_DOING.group
+#: music/VALVE_P1_SUBJECT_NAME.group music/VALVE_P1_YOU_CANT_ESCAPE.group
+msgid "Portal 1"
+msgstr ""
+
+#: package/name
+msgid "Portal 1 Music"
+msgstr ""
+
+#: package/desc
+msgid "Portal 1's music tracks."
+msgstr ""
+
+#: music/VALVE_P1_PROCEDURAL_JIGGLE_BONE.long_name
+msgid "Procedural Jiggle Bone"
+msgstr ""
+
+#: music/VALVE_P1_SELF_ESTEEM_FUND.short_name
+msgid "Self Esteem"
+msgstr ""
+
+#: music/VALVE_P1_SELF_ESTEEM_FUND.long_name
+msgid "Self Esteem Fund"
+msgstr ""
+
+#: music/VALVE_P1_NO_CAKE_FOR_YOU.desc
+msgid "Sombre music played upon entering the first Rattmann Den in Test Chamber 16."
+msgstr ""
+
+#: music/VALVE_P1_STOP_DOING.long_name
+msgid "Stop What You Are Doing"
+msgstr ""
+
+#: music/VALVE_P1_STOP_DOING.short_name
+msgid "Stop!"
+msgstr ""
+
+#: music/VALVE_P1_SUBJECT_NAME.short_name
+msgid "Subject Name"
+msgstr ""
+
+#: music/VALVE_P1_SUBJECT_NAME.long_name
+msgid "Subject Name Here"
+msgstr ""
+
+#: music/VALVE_P1_BLOOD.long_name
+msgid "Taste Of Blood"
+msgstr ""
+
+#: music/VALVE_P1_STOP_DOING.desc
+msgid "The first track played during the Behind The Scenes maps."
+msgstr ""
+
+#: music/VALVE_P1_PROCEDURAL_JIGGLE_BONE.desc
+msgid "The music played on the title screen, in Test Chamber 08 and in Test Chamber 19."
+msgstr ""
+
+#: music/VALVE_P1_PARTY_ESCORT.desc
+msgid "The second track played during the Behind The Scenes maps."
+msgstr ""
+
+#: music/VALVE_P1_SUBJECT_NAME.desc
+msgid "The track played after the Dual Portal Device is acquired, in Test Chamber 11."
+msgstr ""
+
+#: music/VALVE_P1_BLOOD.desc
+msgid "The track played after the Single Portal Device is first acquired, in Test Chamber 02."
+msgstr ""
+
+#: music/VALVE_P1_YOU_CANT_ESCAPE.desc
+msgid "The track played during the GLaDOS boss fight."
+msgstr ""
+
+#: music/VALVE_P1_NOT_A_GOOD_PERSON.desc
+msgid "The track played during the large turret ambush scene."
+msgstr ""
+
+#: music/VALVE_P1_DEGREES_KELVIN.desc
+msgid "The track played when GLaDOS reveals the ultimate end to the testing track."
+msgstr ""
+
+#: music/VALVE_P1_YOU_CANT_ESCAPE.long_name
+msgid "You Can't Escape, You Know"
+msgstr ""
+
+#: music/VALVE_P1_NOT_A_GOOD_PERSON.long_name
+msgid "You're Not A Good Person"
+msgstr ""
+
