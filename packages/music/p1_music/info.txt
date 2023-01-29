@@ -140,7 +140,7 @@
 	"Children"
 		{
 		"tBeam" "VALVE_EXC_FUNNEL"
-		"BounceGel" "VALVE_GEL_CAUSE_SCIENCE"
+		"BounceGel" "VALVE_CAUSE_SCIENCE"
 		"SpeedGel" "VALVE_GEL_REUNION"
 		}
 	}
